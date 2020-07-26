@@ -1,0 +1,34 @@
+
+1. Automation for a manual process from ops team.
+   Summarize all wanted infomation from a directory of files in reporting2 server.
+
+   Documentation of this script is done.
+
+2. Automation for a manual process which contains 4 steps in total.
+
+   Step 1: Push expiry date, before the weekend.
+   Step 2: Adjust amount for customers according to the excel file recieved. 
+           Temporarily add money to users on Saturday.
+   Step 3: Adjust amount for customers according to the excel file recieved. 
+           Temporarily add money to users on Sunday.
+   Step 4: Adjust amount for customers according to the excel file recieved on Saturday and Sundy. (take the money back) On Sunday.
+
+3. Summarize CDMA balances for all prepaid customer by a factor such as BAN or MDN automatically.
+   Input a csv file and returns a result file which each line contains the factor and that prepaid user's balance.
+
+4. Automation for Price Plan Testing.
+
+   Part 1: Dial a number and call on the phone.
+   Part 2: Send a text message on the phone. 
+
+5. CSP Database Automation. 
+   Read all unread notification emails in the CSP mailbox and extract useful information.
+   Generate a sql file for updating the CSP database, a logfile and a history file to keep track all activities and current database.
+
+   Documentation of this scripts is done.
+
+6. Add role base access functionality for OpsView, the project from Andrew Black. 
+   Add Role features and assign different roles to different users. 
+   On the web page, only show the tabs that the current user have permission access to.
+
+7. Set up the new server and virtual machines, install all required softwares for automation.

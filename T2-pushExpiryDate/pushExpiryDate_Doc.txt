@@ -1,0 +1,21 @@
+
+1.  Log on to the reporting2 server 172.25.145.220
+
+2.  cd /P/A/T/H/
+    pyhton pushEXpiryDate_Script.py
+
+3.  input following 3 dates in formate xx/xx/xxxx:
+        a) Please input 1st/2nd date in formate xx/xx/xxxx:	       
+            the first two dates are of the origianl date needs to be pushed off
+	
+	    b) Please input the date will be pushed to in formate xx/xx/xxxx:
+	       the third date will be the date you want to push the 1st/2nd date date to
+		
+4.  the progress of the steps will be printed out in the terminal
+    you will be notified when finished sending the nm1_contingency.xxxxxxxx.DAT file
+
+    
+
+
+
+	

@@ -1,0 +1,23 @@
+INFO DOC for cath_script_1.py 
+
+@ To run the script, type in: python cath_script_1.py 
+
+STEP 1: enter the full path of the csv file 
+        which contains the info need to be extracted and iterate with
+        (in this case, will be the IDs)
+
+STEP 2: enter the full path of the directory
+        which contains data files need to be used for iteration
+
+@ positive keywords: the strings you want output lines contains
+@                    (in this case, will be: SMSMMO, SMSMOT, SMSMT ... ...)
+STEP 3: enter positive keywords one by one (aka. one at a time)
+        terminate this step by typing in: //TER
+
+@ negative keywords: the strings you want output lines not contains
+@                    (in this case, will be: 3100.2.13.1.0.00)
+STEP 4: enter negative keywords one by one (aka. one at a time)
+        terminate this step by typing in: //TER
+
+-----------------------------------------------------------------------------
+//20180511 &<< Catherine Zhou

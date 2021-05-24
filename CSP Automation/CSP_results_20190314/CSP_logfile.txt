@@ -1,0 +1,69 @@
+===== { [20190207 11:05 to 20190314 09:08] starting to log... } =====
+[20190226 09:24]To Remove: <Wayfair.ca Order Updates 67337> 
+[20190226 09:24]To Remove: <Wayfair.ca Order Updates 67337> 
+[20190226 09:24]To Remove: <AirG Community Alerts 56879> 
+[20190226 09:25]To Remove: <AirG Community Alerts 56879> 
+[20190226 09:32]To Remove: <Starwood Reservation Alerts 99805> 
+[20190226 09:32]To Remove: <Starwood Reservation Alerts 99805> 
+[20190207 11:05]To Configure: <Twilio - Coast Capital Savings CU - 262781> 
+[20190207 11:20]To Configure: <Twilio - Coast Capital Savings CU - 262781> 
+[20190207 11:25]To Configure: <22444 - Service de Notification interne Desjardins> 
+[20190207 11:26]To Configure: <33444 - Service de Notification Alerte info Desjardins> 
+[20190207 11:26]To Configure: <88222 - Service de Notification Alerte info-produit Desjardins> 
+[20190207 11:26]To Configure: <Twilio - doTERRACustomerCommunications - 384636> 
+[20190207 11:26]To Configure: <Text to Landline 4122-4123-4124-4125> 
+[20190207 11:31]To Configure: <Twilio - doTERRACustomerCommunications - 384636> 
+[20190207 11:40]To Configure: <Twilio - AgracityPromos - 54001> 
+[20190207 11:44]To Configure: <Twilio - AgracityPromos - 54001> 
+[20190207 11:49]To Configure: <Twilio - YAPI Alerts - 71431> 
+[20190207 11:53]To Configure: <Twilio - YAPI Alerts - 71431> 
+[20190208 11:53]To Configure: <22444 - Service de Notification interne Desjardins> 
+[20190208 11:54]To Configure: <22777 - Service de Notification confirmation de Rende-vous Desjardins> 
+[20190208 11:54]To Configure: <33444 - Service de Notification Alerte info Desjardins> 
+[20190208 11:54]To Configure: <88222 - Service de Notification Alerte info-produit Desjardins> 
+[20190208 11:55]To Configure: <22777 - Service de Notification confirmation de Rende-vous Desjardins> 
+[20190211 12:38]To Configure: <Pampered Chef Consultant Alerts 71125> 
+[20190211 14:35]To Configure: <AIB Promotional Alerts 90231> 
+[20190211 14:35]To Configure: <AIB Promotional Alerts 90231> 
+[20190220 14:28]To Configure: <GM (Main Brand) Chevrolet (Sub-Brand) 56000> 
+[20190220 14:29]To Configure: <Projet Scoop Agence quebecor Media 72667> 
+[20190220 14:29]To Configure: <GM (Main Brand) Chevrolet (Sub-Brand) 56000> 
+[20190220 14:29]To Configure: <Projet Scoop Agence quebecor Media 72667> 
+[20190222 09:16]To Configure: <Solution By Text - Easy Home - 327946> 
+[20190222 09:18]To Configure: <Solution By Text - Easy Home - 327946> 
+[20190222 09:24]To Configure: <Twilio - Instacart Alerts - 52278> 
+[20190222 09:27]To Configure: <Twilio - Instacart Alerts - 52278> 
+[20190225 09:52]To Configure: <81787 - SMSBump Alerts> 
+[20190225 09:53]To Configure: <87573 - AppCard Alerts> 
+[20190225 09:53]To Configure: <81787 - SMSBump Alerts> 
+[20190225 09:53]To Configure: <87573 - AppCard Alerts> 
+[20190225 14:15]To Configure: <OpenMarket- xMatters Alerts - 90250> 
+[20190304 15:27]To Configure: <HelloWorld Text-For-Link 89074> 
+[20190304 15:27]To Configure: <HelloWorld Text-For-Link 89074> 
+[20190304 15:28]To Configure: <266767 - Bank of Montreal Two-Step Authentication> 
+[20190304 15:28]To Configure: <266767 - Bank of Montreal Two-Step Authentication> 
+[20190305 11:13]To Configure: <Twilio - Air Miles Reward Alerts - 888000> 
+[20190305 11:17]To Configure: <Twilio - Air Miles Reward Alerts - 888000> 
+[20190305 11:24]To Configure: <Twilio - MDG Alerts - 63422> 
+[20190305 11:28]To Configure: <Twilio - MDG Alerts - 63422> 
+[20190305 11:33]To Configure: <Twilio - Wayfair Alerts - 76076> 
+[20190305 11:37]To Configure: <Twilio - Wayfair Alerts - 76076> 
+[20190306 12:09]To Configure: <79021 - Sinch General Use Contests> 
+[20190306 12:09]To Configure: <79021 - Sinch General Use Contests> 
+[20190307 13:20]To Configure: <HSBC Customer Information Review (OKYC) 88166> 
+[20190307 13:20]To Configure: <Bouclair Inc Promos 268257> 
+[20190307 13:21]To Configure: <Bouclair Inc Promos 268257> 
+[20190307 13:21]To Configure: <HSBC Customer Information Review (OKYC) 88166> 
+[20190308 09:46]To Configure: <Twilio - Rover Alerts - 76836> 
+[20190308 09:49]To Configure: <Twilio - Rover Alerts - 76836> 
+[20190313 13:51]To Configure: <Hyundai Capital Lease Inc. Customer and Dealer Journeys - 71844> 
+[20190313 13:51]To Configure: <Hyundai Capital Lease Inc. Customer and Dealer Journeys - 71844> 
+[20190313 15:03]To Configure: <Twilio - Wayfair Alerts - 76070> 
+[20190313 15:07]To Configure: <Twilio - Wayfair Alerts - 76070> 
+[20190314 09:07]To Configure: <iTechTool Alerts 52500> 
+[20190314 09:07]To Configure: <iTechTool Alerts 78740> 
+[20190314 09:07]To Configure: <iTechTool Alerts 52500> 
+[20190314 09:08]To Configure: <iTechTool Alerts 78740> 
+[20190304 15:29]To Remove: <63977 - Odyssey Alerts> 
+[20190304 15:29]To Configure: <63977 - Odyssey Alerts> 
+===== { [20190207 11:05 to 20190314 09:08] Insert Count: 120  Delete Count: 16 } =====

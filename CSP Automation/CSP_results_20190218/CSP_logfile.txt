@@ -1,0 +1,69 @@
+===== { [20181204 10:13 to 20190205 10:32] starting to log... } =====
+[20181204 10:13]To Remove: <Twilio- Lyft Alerts - 80846> 
+[20181204 10:14]To Remove: <Twilio- Lyft Alerts - 80846> 
+[20181204 10:14]To Remove: <First Data: ATB Fraud Alert 26745> 
+[20181204 10:15]To Remove: <First Data: ATB Fraud Alert 26745> 
+[20181204 10:17]To Remove: <Shell Rotella Alerts 768352> 
+[20181204 10:17]To Remove: <Club Texting Message Alerts 212121> 
+[20181204 10:17]To Remove: <Club Texting Message Alerts 212121> 
+[20181204 10:18]To Remove: <Shell Rotella Alerts 768352> 
+[20181204 10:19]To Remove: <USAA Multi Factor Authentication Alerts 698722> 
+[20181204 10:19]To Remove: <USAA Multi Factor Authentication Alerts 698722> 
+[20181204 10:19]To Remove: <B2B Voting 51051> 
+[20181204 10:20]To Remove: <B2B Voting - 51051> 
+[20181204 10:21]To Remove: <123411.ca 123411> 
+[20181204 10:21]To Remove: <123411.ca 123411> 
+[20190108 14:00]To Remove: <BELL MEDIA - 115050> 
+[20190108 14:00]To Remove: <BELL MEDIA - 115050> 
+[20190108 14:18]To Remove: <Onstar Data Usage Alert 99198> 
+[20190108 14:18]To Remove: <Onstar Data Usage Alert 99198> 
+[20190108 14:19]To Remove: <Onstar Data Usage Alert 28798> 
+[20190108 14:19]To Remove: <Onstar Data Usage Alert 28798> 
+[20190115 09:33]To Remove: <OpenMarket - The Great American Read SMS Campaign - 97979> 
+[20190115 09:33]To Remove: <OpenMarket - The Great American Read SMS Campaign - 97979> 
+[20190122 10:01]To Remove: <Cellphone Info Search Engine 93411> 
+[20190122 10:01]To Remove: <Cellphone Info Search Engine 93411> 
+[20190122 10:01]To Remove: <One-Intuit Identity 692227> 
+[20190122 10:02]To Remove: <One-Intuit Identity 692227> 
+[20190122 10:02]To Remove: <BC Victim R.E.A.C.H. Map 73224> 
+[20190122 10:03]To Remove: <BC Victim R.E.A.C.H. Map 73224> 
+[20190130 10:03]To Remove: <393939 - Ez Texting Message Alerts> 
+[20190130 10:05]To Remove: <EZ Texting Message Alerts 393939> 
+[20190130 10:06]To Remove: <Ez Texting Message Alerts 393939> 
+[20181220 12:08]To Configure: <Twilio - Amazon People Tech Notifications - 299675> 
+[20181220 12:11]To Configure: <Twilio - Amazon People Tech Notifications - 299675> 
+[20181228 12:49]To Configure: <E-ZPass New York 39769> 
+[20181228 12:50]To Configure: <42732 - Garda internal staff alert program> 
+[20181228 12:50]To Configure: <22237 - Société de Transport du Saguenay> 
+[20181228 12:51]To Configure: <100000 - Carts Guru Alerts> 
+[20181228 12:51]To Configure: <E-ZPass New York 39769> 
+[20181228 12:51]To Configure: <42732 - Garda internal staff alert program> 
+[20181228 12:51]To Configure: <22237 - Société de Transport du Saguenay> 
+[20181228 12:52]To Configure: <100000 - Carts Guru Alerts> 
+[20190103 16:11]To Configure: <Apple FaceTime/iMessage Registration- 303030> 
+[20190108 11:35]To Configure: <44685 - Longcode Test> 
+[20190110 09:49]To Configure: <Twilio - Sciensio EventBot Support - 25525> 
+[20190110 09:55]To Configure: <Twilio - Sciensio EventBot Support - 25525> 
+[20190110 10:04]To Configure: <Vibes - Best Western: BW Alerts - 94484> 
+[20190110 10:09]To Configure: <Vibes - Best Western: BW Alerts - 94484> 
+[20190114 15:56]To Configure: <People's Trust Consumer Preference Alerts 233476> 
+[20190114 15:56]To Configure: <People's Trust Consumer Preference Alerts 233476> 
+[20190125 13:32]To Configure: <77007 - Service de notification interne Desjardins> 
+[20190125 13:33]To Configure: <77007 - Service de notification interne Desjardins> 
+[20190125 13:33]To Configure: <738368 - Mon Dossier (Revenu Quebec)> 
+[20190125 13:33]To Configure: <738368 - Mon Dossier (Revenu Quebec)> 
+[20190128 14:26]To Configure: <Red Robin Alerts 78674> 
+[20190128 14:26]To Configure: <Red Robin Alerts 78674> 
+[20190129 09:18]To Configure: <Vibes - The Children's Place Alerts - 89007> 
+[20190129 09:23]To Configure: <Vibes - The Children's Place Alerts - 89007> 
+[20190130 10:04]To Configure: <393939 - EZ Texting Message Alerts> 
+[20190130 10:21]To Configure: <393939 - EZ Texting Message Alerts> 
+[20190130 15:41]To Configure: <Ashley Furniture Canada Program 70000> 
+[20190130 15:41]To Configure: <Ashley Furniture Canada Program 70000> 
+[20190130 18:25]To Configure: <Twilio - GarbageDayAlerts - 79019> 
+[20190130 18:37]To Configure: <Twilio - GarbageDayAlerts - 79019> 
+[20190130 18:43]To Configure: <Twilio - Instacart Alerts - 56782> 
+[20190130 18:49]To Configure: <Twilio - Instacart Alerts - 56782> 
+[20190102 09:10]To Remove: <Young Drivers of Canada SMS 58888> 
+[20190102 09:10]To Configure: <Young Drivers of Canada SMS 58888> 
+===== { [20181204 10:13 to 20190205 10:32] Insert Count: 70  Delete Count: 53 } =====
